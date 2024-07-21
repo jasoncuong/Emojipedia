@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: center;
+    margin: 64px 0;
+}
+
+.box {
+    background-color: #2ec2b0;
+    width: 490px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading {
+    padding: 5px 15px;
+    font-size: 8rem;
+    color: #fff;
+    font-weight: 600;
+}
