@@ -53,7 +53,7 @@ const emojipedia = [
         meaning: "When the temperature touches rock bottom. Extremely cold",
     },
     {
-        id: 8,
+        id: 9,
         emoji: "🤬",
         name: "Face with symbols on the mouth",
         meaning:
