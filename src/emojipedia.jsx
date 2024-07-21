@@ -79,6 +79,13 @@ const emojipedia = [
         meaning:
             "Depicts wanting of something so bad that eyes become full of tears",
     },
+    {
+        id: 13,
+        emoji: "🙂",
+        name: "Slightly smiling face",
+        meaning:
+            "An emoji which can have two or more meanings to it such as being positive, happy or patronizing and being ironic",
+    },
 ];
 
 export default emojipedia;
