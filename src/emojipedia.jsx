@@ -59,6 +59,26 @@ const emojipedia = [
         meaning:
             "This emoji depicts vulgar behaviour due to being too much furious at someone or something",
     },
+    {
+        id: 10,
+        emoji: "🤢",
+        name: "Nauseated Face",
+        meaning: "The face depicting ‘about to throw up",
+    },
+    {
+        id: 11,
+        emoji: "😮",
+        name: "Face with Open mouth",
+        meaning:
+            "A round mouth emoji describing a shock which makes one go ‘wow!’",
+    },
+    {
+        id: 12,
+        emoji: "🥺",
+        name: "Pleading face",
+        meaning:
+            "Depicts wanting of something so bad that eyes become full of tears",
+    },
 ];
 
 export default emojipedia;
