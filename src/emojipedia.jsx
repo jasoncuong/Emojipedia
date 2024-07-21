@@ -86,6 +86,20 @@ const emojipedia = [
         meaning:
             "An emoji which can have two or more meanings to it such as being positive, happy or patronizing and being ironic",
     },
+    {
+        id: 14,
+        emoji: "😑",
+        name: "Expressionless",
+        meaning:
+            "The flat eyes and mouth convey a sense of frustration or disappointment",
+    },
+    {
+        id: 15,
+        emoji: "🤐",
+        name: "Zipper mouth face",
+        meaning:
+            "Used when secrets and promises are to be kept among only certain number of people",
+    },
 ];
 
 export default emojipedia;
