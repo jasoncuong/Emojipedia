@@ -46,6 +46,19 @@ const emojipedia = [
         name: "Sleeping face",
         meaning: "One can use this emoji to convey “good night” to a chat",
     },
+    {
+        id: 8,
+        emoji: "🥶",
+        name: "Cold face",
+        meaning: "When the temperature touches rock bottom. Extremely cold",
+    },
+    {
+        id: 8,
+        emoji: "🤬",
+        name: "Face with symbols on the mouth",
+        meaning:
+            "This emoji depicts vulgar behaviour due to being too much furious at someone or something",
+    },
 ];
 
 export default emojipedia;
