@@ -63,14 +63,14 @@ const emojipedia = [
         id: 10,
         emoji: "🤢",
         name: "Nauseated Face",
-        meaning: "The face depicting ‘about to throw up",
+        meaning: "The face depicting about to throw up",
     },
     {
         id: 11,
         emoji: "😮",
         name: "Face with Open mouth",
         meaning:
-            "A round mouth emoji describing a shock which makes one go ‘wow!’",
+            "A round mouth emoji describing a shock which makes one go wow",
     },
     {
         id: 12,
@@ -82,7 +82,7 @@ const emojipedia = [
     {
         id: 13,
         emoji: "🙂",
-        name: "Slightly smiling face",
+        name: "Pleading face",
         meaning:
             "An emoji which can have two or more meanings to it such as being positive, happy or patronizing and being ironic",
     },
